@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Data.SqlClient;
 
 namespace BancoDelTiempo
 {
@@ -6,7 +7,10 @@ namespace BancoDelTiempo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            SqlConnection connection = new SqlConnection
+                ("Data Source=.\\SQLSERVER;Initial Catalog=BancoDelTiempo;Integrated Security=True");
         }
+
+       
     }
 }

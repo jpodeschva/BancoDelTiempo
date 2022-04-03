@@ -1,0 +1,15 @@
+C:\Users\jordi\OneDrive\Escritorio\DAM\4rt Semestre\P6. Técnicas de persistencia de datos con .NET\Fase 3\BancoDelTiempo\BancoDelTiempo\bin\Debug\netcoreapp3.1\BancoDelTiempo.exe
+C:\Users\jordi\OneDrive\Escritorio\DAM\4rt Semestre\P6. Técnicas de persistencia de datos con .NET\Fase 3\BancoDelTiempo\BancoDelTiempo\bin\Debug\netcoreapp3.1\BancoDelTiempo.deps.json
+C:\Users\jordi\OneDrive\Escritorio\DAM\4rt Semestre\P6. Técnicas de persistencia de datos con .NET\Fase 3\BancoDelTiempo\BancoDelTiempo\bin\Debug\netcoreapp3.1\BancoDelTiempo.runtimeconfig.json
+C:\Users\jordi\OneDrive\Escritorio\DAM\4rt Semestre\P6. Técnicas de persistencia de datos con .NET\Fase 3\BancoDelTiempo\BancoDelTiempo\bin\Debug\netcoreapp3.1\BancoDelTiempo.runtimeconfig.dev.json
+C:\Users\jordi\OneDrive\Escritorio\DAM\4rt Semestre\P6. Técnicas de persistencia de datos con .NET\Fase 3\BancoDelTiempo\BancoDelTiempo\bin\Debug\netcoreapp3.1\BancoDelTiempo.dll
+C:\Users\jordi\OneDrive\Escritorio\DAM\4rt Semestre\P6. Técnicas de persistencia de datos con .NET\Fase 3\BancoDelTiempo\BancoDelTiempo\bin\Debug\netcoreapp3.1\BancoDelTiempo.pdb
+C:\Users\jordi\OneDrive\Escritorio\DAM\4rt Semestre\P6. Técnicas de persistencia de datos con .NET\Fase 3\BancoDelTiempo\BancoDelTiempo\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\jordi\OneDrive\Escritorio\DAM\4rt Semestre\P6. Técnicas de persistencia de datos con .NET\Fase 3\BancoDelTiempo\BancoDelTiempo\obj\Debug\netcoreapp3.1\BancoDelTiempo.csprojAssemblyReference.cache
+C:\Users\jordi\OneDrive\Escritorio\DAM\4rt Semestre\P6. Técnicas de persistencia de datos con .NET\Fase 3\BancoDelTiempo\BancoDelTiempo\obj\Debug\netcoreapp3.1\BancoDelTiempo.AssemblyInfoInputs.cache
+C:\Users\jordi\OneDrive\Escritorio\DAM\4rt Semestre\P6. Técnicas de persistencia de datos con .NET\Fase 3\BancoDelTiempo\BancoDelTiempo\obj\Debug\netcoreapp3.1\BancoDelTiempo.AssemblyInfo.cs
+C:\Users\jordi\OneDrive\Escritorio\DAM\4rt Semestre\P6. Técnicas de persistencia de datos con .NET\Fase 3\BancoDelTiempo\BancoDelTiempo\obj\Debug\netcoreapp3.1\BancoDelTiempo.csproj.CoreCompileInputs.cache
+C:\Users\jordi\OneDrive\Escritorio\DAM\4rt Semestre\P6. Técnicas de persistencia de datos con .NET\Fase 3\BancoDelTiempo\BancoDelTiempo\obj\Debug\netcoreapp3.1\BancoDelTiempo.csproj.CopyComplete
+C:\Users\jordi\OneDrive\Escritorio\DAM\4rt Semestre\P6. Técnicas de persistencia de datos con .NET\Fase 3\BancoDelTiempo\BancoDelTiempo\obj\Debug\netcoreapp3.1\BancoDelTiempo.dll
+C:\Users\jordi\OneDrive\Escritorio\DAM\4rt Semestre\P6. Técnicas de persistencia de datos con .NET\Fase 3\BancoDelTiempo\BancoDelTiempo\obj\Debug\netcoreapp3.1\BancoDelTiempo.pdb
+C:\Users\jordi\OneDrive\Escritorio\DAM\4rt Semestre\P6. Técnicas de persistencia de datos con .NET\Fase 3\BancoDelTiempo\BancoDelTiempo\obj\Debug\netcoreapp3.1\BancoDelTiempo.genruntimeconfig.cache
