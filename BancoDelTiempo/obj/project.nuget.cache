@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xya/yAvw+xBqq6JHcwG194NlAKlGay3gaPJnftq1UYgcER4DX+g5ZQlSjCwxT8x/dz/fxeQIcTQQ9OzohXOkGw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jordi\\OneDrive\\Escritorio\\DAM\\4rt Semestre\\P6. Técnicas de persistencia de datos con .NET\\Fase 3\\BancoDelTiempo\\BancoDelTiempo\\BancoDelTiempo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jordi\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\system.reflection.emit.lightweight\\4.7.0\\system.reflection.emit.lightweight.4.7.0.nupkg.sha512",
+    "C:\\Users\\jordi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
