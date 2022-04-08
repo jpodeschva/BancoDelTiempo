@@ -1,0 +1,15 @@
+/home/mati/UOC/Banco_tiempo/BancoDelTiempo/LesPersistances/bin/Debug/net6.0/LesPersistances
+/home/mati/UOC/Banco_tiempo/BancoDelTiempo/LesPersistances/bin/Debug/net6.0/LesPersistances.deps.json
+/home/mati/UOC/Banco_tiempo/BancoDelTiempo/LesPersistances/bin/Debug/net6.0/LesPersistances.runtimeconfig.json
+/home/mati/UOC/Banco_tiempo/BancoDelTiempo/LesPersistances/bin/Debug/net6.0/LesPersistances.dll
+/home/mati/UOC/Banco_tiempo/BancoDelTiempo/LesPersistances/bin/Debug/net6.0/ref/LesPersistances.dll
+/home/mati/UOC/Banco_tiempo/BancoDelTiempo/LesPersistances/bin/Debug/net6.0/LesPersistances.pdb
+/home/mati/UOC/Banco_tiempo/BancoDelTiempo/LesPersistances/obj/Debug/net6.0/LesPersistances.csproj.AssemblyReference.cache
+/home/mati/UOC/Banco_tiempo/BancoDelTiempo/LesPersistances/obj/Debug/net6.0/LesPersistances.GeneratedMSBuildEditorConfig.editorconfig
+/home/mati/UOC/Banco_tiempo/BancoDelTiempo/LesPersistances/obj/Debug/net6.0/LesPersistances.AssemblyInfoInputs.cache
+/home/mati/UOC/Banco_tiempo/BancoDelTiempo/LesPersistances/obj/Debug/net6.0/LesPersistances.AssemblyInfo.cs
+/home/mati/UOC/Banco_tiempo/BancoDelTiempo/LesPersistances/obj/Debug/net6.0/LesPersistances.csproj.CoreCompileInputs.cache
+/home/mati/UOC/Banco_tiempo/BancoDelTiempo/LesPersistances/obj/Debug/net6.0/LesPersistances.dll
+/home/mati/UOC/Banco_tiempo/BancoDelTiempo/LesPersistances/obj/Debug/net6.0/ref/LesPersistances.dll
+/home/mati/UOC/Banco_tiempo/BancoDelTiempo/LesPersistances/obj/Debug/net6.0/LesPersistances.pdb
+/home/mati/UOC/Banco_tiempo/BancoDelTiempo/LesPersistances/obj/Debug/net6.0/LesPersistances.genruntimeconfig.cache
